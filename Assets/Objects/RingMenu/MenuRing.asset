@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d82caa8fa95084fb32c787b88a7a1b, type: 3}
+  m_Name: MenuRing
+  m_EditorClassIdentifier: 
+  Elements:
+  - {fileID: 11400000, guid: a27e3dfb54142c6448df7b5566b002ee, type: 2}
+  - {fileID: 11400000, guid: e4d63a025fa772d4899f14ed9920fc41, type: 2}
+  - {fileID: 11400000, guid: 59b05900d71559f4cbac18b7472c203f, type: 2}
+  - {fileID: 11400000, guid: 3be573b79db208649a364193b286d88e, type: 2}
